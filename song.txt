@@ -6,8 +6,7 @@ on this their chosen battle field
 Form the lines
 Shield by shield
 Song lines
-Song line 
+Song line
 
-branching text
-here it is
+merging line (non-fast-forward)
 
